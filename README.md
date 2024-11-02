@@ -1,0 +1,6 @@
+- 👋 Hola, soy @AngelAMtzJuan
+- 👽 Me interesa aprender sobre desarrollo web y computación en la nube.
+- 🤖 Actualmente estoy tomando un curso de frontend en Dev.F y mejorando mis habilidades en Python.
+- 🤝 Me gustaría colaborar en proyectos para principiantes en desarrollo web o Python.
+- 📫 Cómo contactarme: [angelmartinez58228@gmail.com](mailto:angelmartinez58228@gmail.com)
+- 😄 Pronombres: Él
