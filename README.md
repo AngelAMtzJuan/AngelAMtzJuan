@@ -1,6 +1,6 @@
 - 👋 Hola, soy @AngelAMtzJuan
 - 👽 Me interesa aprender sobre desarrollo web.
-- 🤖 Actualmente estoy tomando un curso de frontend en Dev.F y mejorando mis habilidades en desarrollo web.
+- 🤖 Actualmente estoy tomando un curso de frontend en Dev.F y Oracle,ademas estoy  mejorando mis habilidades en desarrollo web.
 - 🤝 Me gustaría colaborar en proyectos para principiantes en desarrollo web .
 - 📫 Cómo contactarme: [angelmartinez58228@gmail.com](mailto:angelmartinez58228@gmail.com)
 - 😄 Pronombres: Él
